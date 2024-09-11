@@ -1,0 +1,10 @@
+.header_container {
+    background-color: #e47373;
+    padding: 5px;
+    text-align: center;
+}
+
+.header_title {
+    color: aliceblue;
+    font-size: 1.5em;
+}

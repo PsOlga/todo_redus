@@ -1,0 +1,7 @@
+.note_p {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    color: #212438;
+    font-weight: 600;
+}

@@ -1,0 +1,9 @@
+.footer_container {
+    background-color: #382121;
+    padding: 10px;
+    text-align: center;
+    color: aliceblue;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
